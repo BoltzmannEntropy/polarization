@@ -85,30 +85,52 @@ https://wdscultan.github.io/files/qphys.pdf
 **Online tutorials:**
 
 http://www.vcpc.univie.ac.at/~ian/hotlist/qc/intro.shtml
+
 https://phsites.technion.ac.il/quantum-computing-technion-school/exercises-lecture-notes-and-slides/
+
 http://davidbkemp.github.io/QuantumComputingArticle/
+
 https://heyredhat.github.io/
+
 https://qosf.org/learn_quantum/
+
 https://aroosaijaz.github.io/talks/
 
 https://phsites.technion.ac.il/quantum-computing-technion-school/recorded-lectures/
+
 https://www.cl.cam.ac.uk/teaching/1718/QuantComp/
+
 https://www.cl.cam.ac.uk/teaching/1617/QuantComp/materials.html
+
 https://www.qi.damtp.cam.ac.uk/part-ib-quantum-mechanics
+
 http://theory.caltech.edu/~preskill/ph219/ph219_2021-22.html
+
 https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu
+
 https://www.youtube.com/playlist?list=PLQOPozM-bhZrWIyxwD_sMe9Q0HvwMzJNS
 
+
 http://davidbkemp.github.io/QuantumComputingArticle/
+
 https://www-inst.eecs.berkeley.edu/~cs191/sp05/
+
 http://www-thphys.physics.ox.ac.uk/people/FabianEssler/Quantum.html
+
 https://www.uio.no/studier/emner/matnat/math/MAT3420/v21/timeplan/index.html#FOR
+
 https://bingweb.binghamton.edu/~suzuki/QuantumMechanics.html
+
 http://cleve.iqc.uwaterloo.ca/qic710/
+
 https://web.pa.msu.edu/people/mmoore/851.html
+
 https://www.math.uwaterloo.ca/~jyard/qic710/
+
 https://www.math.uwaterloo.ca/~jyard/qic710/F17/
+
 http://simons.hec.utah.edu/TheoryPage/BookPDF/
+
 https://courses.cs.washington.edu/courses/cse599d/06wi/
 
 Umesh Vazirani (UC Berkeley): [http://www-inst.eecs.berkeley.edu/~cs191/sp12/](http://www-inst.eecs.berkeley.edu/~cs191/sp12/)
