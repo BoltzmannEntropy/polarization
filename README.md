@@ -136,7 +136,14 @@ http://simons.hec.utah.edu/TheoryPage/BookPDF/
 
 https://courses.cs.washington.edu/courses/cse599d/06wi/
 
-Umesh Vazirani (UC Berkeley): [http://www-inst.eecs.berkeley.edu/~cs191/sp12/](http://www-inst.eecs.berkeley.edu/~cs191/sp12/)
-John Preskill (Caltech): [http://www.theory.caltech.edu/people/preskill/ph229/](http://www.theory.caltech.edu/people/preskill/ph229/) 
-Andrew Childs (University of Maryland): [http://cs.umd.edu/~amchilds/qa/](http://cs.umd.edu/~amchilds/qa/) 
-John Watrous (University of Waterloo): [https://cs.uwaterloo.ca/~watrous/TQI/](https://cs.uwaterloo.ca/~watrous/TQI/)
+Umesh Vazirani (UC Berkeley): 
+[http://www-inst.eecs.berkeley.edu/~cs191/sp12/](http://www-inst.eecs.berkeley.edu/~cs191/sp12/)
+
+John Preskill (Caltech): 
+[http://www.theory.caltech.edu/people/preskill/ph229/](http://www.theory.caltech.edu/people/preskill/ph229/) 
+
+Andrew Childs (University of Maryland): 
+[http://cs.umd.edu/~amchilds/qa/](http://cs.umd.edu/~amchilds/qa/) 
+
+John Watrous (University of Waterloo): 
+[https://cs.uwaterloo.ca/~watrous/TQI/](https://cs.uwaterloo.ca/~watrous/TQI/)
