@@ -1,4 +1,4 @@
-# Publicly available quantum computing books
+# Publicly available quantum computing books (WIP)
 
 
 ## Introduction
