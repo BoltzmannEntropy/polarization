@@ -18,14 +18,15 @@ The topics include:
 
 ![alt text](coverz.jpg "")
 
-You should start by reading: *"Preparing for the quantum revolution: What is the role of higher education"*
+**If you are also considering graduate school**, you should start by reading: *"Preparing for the quantum revolution: What is the role of higher education"*
+
 [https://par.nsf.gov/servlets/purl/10233228](https://par.nsf.gov/servlets/purl/10233228)
 
 
 **Math and physics refresher course:**
-[http://salfordphysics.com/gsmcdonald/pp/PPLATOResources/PPLATO.htm](http://salfordphysics.com/gsmcdonald/pp/PPLATOResources/PPLATO.htm)
+http://salfordphysics.com/gsmcdonald/pp/PPLATOResources/PPLATO.htm
 
-[http://salfordphysics.com/gsmcdonald/hFLAPP.php](http://salfordphysics.com/gsmcdonald/hFLAPP.php)
+http://salfordphysics.com/gsmcdonald/hFLAPP.php
 
 
 **Online PDF books:**
