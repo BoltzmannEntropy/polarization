@@ -16,6 +16,8 @@ The topics include:
 - **Quantum computing**
 - **Quantum information theory**
 
+![alt text](coverz.jpg.png "")
+
 You should start by reading: *"Preparing for the quantum revolution: What is the role of higher education"*
 [https://par.nsf.gov/servlets/purl/10233228](https://par.nsf.gov/servlets/purl/10233228)
 
