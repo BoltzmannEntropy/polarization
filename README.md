@@ -1,7 +1,7 @@
 # Publicly available quantum computing books (WIP)
 
 <h1 align="center">    
-  <img src="https://github.com/BoltzmannEntropy/polarization/blob/main/bloch009.png" width="30%"></a>  
+  <img src="https://github.com/BoltzmannEntropy/polarization/blob/main/bloch009.png" width="20%"></a>  
 </h1>
 
 ## Introduction
