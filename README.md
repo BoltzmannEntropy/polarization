@@ -27,12 +27,14 @@ The topics include:
 
 
 **Math and physics refresher course:**
+
 http://salfordphysics.com/gsmcdonald/pp/PPLATOResources/PPLATO.htm
 
 http://salfordphysics.com/gsmcdonald/hFLAPP.php
 
 
 **Online PDF books:**
+
 http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
 
 https://baraksh.com/4P51/Barak_Shoshany_PHYS_4P51_Lecture_Notes.pdf
