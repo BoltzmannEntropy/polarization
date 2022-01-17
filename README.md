@@ -35,6 +35,7 @@ http://salfordphysics.com/gsmcdonald/hFLAPP.php
 
 **Online PDF books:**
 
+
 http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
 
 https://baraksh.com/4P51/Barak_Shoshany_PHYS_4P51_Lecture_Notes.pdf
@@ -88,6 +89,8 @@ https://www.fi.muni.cz/usr/gruska/quantum20/
 https://www.itp.uni-hannover.de/fileadmin/itp/emeritus/dragon/qm_eng.pdf
 
 https://wdscultan.github.io/files/qphys.pdf
+
+https://scholar.harvard.edu/files/noahmiller/files/statistical_mechanics.pdf
 
 
 **Online tutorials:**
