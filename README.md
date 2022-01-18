@@ -33,8 +33,12 @@ http://salfordphysics.com/gsmcdonald/pp/PPLATOResources/PPLATO.htm
 http://salfordphysics.com/gsmcdonald/hFLAPP.php
 
 
-**Online PDF books:**
+**The largests QM resource listing: (Frank Rioux Professor Emeritus Department of Chemistry)**
 
+https://faculty.csbsju.edu/frioux/workinprogress.html
+
+
+**Online PDF books:**
 
 http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
 
