@@ -26,19 +26,19 @@ The topics include:
 [https://par.nsf.gov/servlets/purl/10233228](https://par.nsf.gov/servlets/purl/10233228)
 
 
-**Math and physics refresher course:**
+#Math and physics refresher course:
 
 http://salfordphysics.com/gsmcdonald/pp/PPLATOResources/PPLATO.htm
 
 http://salfordphysics.com/gsmcdonald/hFLAPP.php
 
 
-**The largests QM resource listing: (Frank Rioux Professor Emeritus Department of Chemistry)**
+#The largests QM resource listing: (Frank Rioux Professor Emeritus Department of Chemistry)
 
 https://faculty.csbsju.edu/frioux/workinprogress.html
 
 
-**Online PDF books:**
+#Online PDF books:
 
 http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
 
@@ -97,7 +97,7 @@ https://wdscultan.github.io/files/qphys.pdf
 https://scholar.harvard.edu/files/noahmiller/files/statistical_mechanics.pdf
 
 
-**Online tutorials:**
+#Online tutorials:
 
 http://www.vcpc.univie.ac.at/~ian/hotlist/qc/intro.shtml
 
@@ -148,14 +148,18 @@ http://simons.hec.utah.edu/TheoryPage/BookPDF/
 
 https://courses.cs.washington.edu/courses/cse599d/06wi/
 
+
 Umesh Vazirani (UC Berkeley): 
 [http://www-inst.eecs.berkeley.edu/~cs191/sp12/](http://www-inst.eecs.berkeley.edu/~cs191/sp12/)
+
 
 John Preskill (Caltech): 
 [http://www.theory.caltech.edu/people/preskill/ph229/](http://www.theory.caltech.edu/people/preskill/ph229/) 
 
+
 Andrew Childs (University of Maryland): 
 [http://cs.umd.edu/~amchilds/qa/](http://cs.umd.edu/~amchilds/qa/) 
+
 
 John Watrous (University of Waterloo): 
 [https://cs.uwaterloo.ca/~watrous/TQI/](https://cs.uwaterloo.ca/~watrous/TQI/)
