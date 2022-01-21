@@ -1,4 +1,6 @@
-# Publicly available quantum computing books (WIP)
+# "Keep learning, or risk becoming irrelevant."
+
+## Publicly available quantum computing books (WIP)
 
 <h1 align="center">    
   <img src="https://github.com/BoltzmannEntropy/polarization/blob/main/bloch009.png" width="20%"></a>  
