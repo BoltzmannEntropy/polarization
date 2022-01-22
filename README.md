@@ -42,6 +42,8 @@ https://faculty.csbsju.edu/frioux/workinprogress.html
 
 http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
 
+https://www.doc.ic.ac.uk/~ae/papers/qc.pdf
+
 https://lapastillaroja.net/wp-content/uploads/2016/09/Intro_to_QC_Vol_1_Loceff.pdf
 
 https://baraksh.com/4P51/Barak_Shoshany_PHYS_4P51_Lecture_Notes.pdf
