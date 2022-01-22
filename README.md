@@ -7,12 +7,10 @@
 </h1>
 
 ## Introduction
-
-Quantum computing is a new paradigm of physics that promises significant computational advantages for a plethora of applications, ranging from optimizing, material design, drug discovery to sensing and measurement and secure communication.
  
 Building a quantum computer requires **multidisciplinary knowledge** involving experimental and theoretical physics, photonics, computer science, software engineering, and of course quantum mechanics. 
 
-**If you are a computer scientist or a physicists aspiring to become a quantum computing scientist, this list is for you.** 
+**If you are a computer scientist or a physicist aspiring to become a quantum computing scientist, this list is for you.** 
 
 The topics include:
 
