@@ -44,6 +44,11 @@ http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
 
 https://www.doc.ic.ac.uk/~ae/papers/qc.pdf
 
+https://cse.sc.edu/~fenner/csce790/notes/course-notes.pdf
+
+https://web.eecs.utk.edu/~ggu1/files/ECE692SemicondFundm_03_QuantumMechanicsPrimer.pdf
+
+
 https://lapastillaroja.net/wp-content/uploads/2016/09/Intro_to_QC_Vol_1_Loceff.pdf
 
 https://baraksh.com/4P51/Barak_Shoshany_PHYS_4P51_Lecture_Notes.pdf
