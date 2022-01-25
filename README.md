@@ -48,6 +48,7 @@ https://cse.sc.edu/~fenner/csce790/notes/course-notes.pdf
 
 https://web.eecs.utk.edu/~ggu1/files/ECE692SemicondFundm_03_QuantumMechanicsPrimer.pdf
 
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.212.9174&rep=rep1&type=pdf
 
 https://lapastillaroja.net/wp-content/uploads/2016/09/Intro_to_QC_Vol_1_Loceff.pdf
 
