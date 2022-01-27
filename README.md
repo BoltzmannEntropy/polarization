@@ -114,6 +114,19 @@ https://wdscultan.github.io/files/qphys.pdf
 
 https://scholar.harvard.edu/files/noahmiller/files/statistical_mechanics.pdf
 
+# QISKIT
+
+https://indico.desy.de/event/26672/contributions/60980/attachments/39510/49043/DESY_Qiskit_Intro_Kuehn.pdf
+
+
+https://arcb.csc.ncsu.edu/~mueller/qc/qc19/readings/qiskit.pdf
+
+
+https://alexheilman.com/products/notes/qa/qa.pdf
+
+
+https://www.cmlab.csie.ntu.edu.tw/~wcchen/QAnotes/Introduction%20to%20Qiskit%207.pdf
+
 
 # Online tutorials:
 
