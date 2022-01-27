@@ -44,6 +44,14 @@ http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
 
 https://www.doc.ic.ac.uk/~ae/papers/qc.pdf
 
+https://young.physics.ucsc.edu/150/phys_150_all.pdf
+
+https://www.if.ufrj.br/~carlos/fismod/seminarios/SternGerlach/SternGerlach_programas/SpinBook02.pdf
+
+
+https://people.phys.ethz.ch/~babis/Teaching/QM1/qm1.pdf
+
+
 https://cse.sc.edu/~fenner/csce790/notes/course-notes.pdf
 
 https://web.eecs.utk.edu/~ggu1/files/ECE692SemicondFundm_03_QuantumMechanicsPrimer.pdf
