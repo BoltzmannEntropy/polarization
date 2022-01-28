@@ -126,6 +126,12 @@ https://alexheilman.com/products/notes/qa/qa.pdf
 https://www.cmlab.csie.ntu.edu.tw/~wcchen/QAnotes/Introduction%20to%20Qiskit%207.pdf
 
 
+https://colab.research.google.com/github/mtreinish/qiskit-workshop/blob/master/Workshop.ipynb
+
+https://qiskit.org/textbook/preface.html
+
+
+
 # Online tutorials:
 
 http://www.vcpc.univie.ac.at/~ian/hotlist/qc/intro.shtml
