@@ -130,6 +130,17 @@ https://colab.research.google.com/github/mtreinish/qiskit-workshop/blob/master/W
 
 https://qiskit.org/textbook/preface.html
 
+# SGE
+https://homepages.rpi.edu/~meuniv/IQM21/html/chapter1.html#chapter1
+
+https://www.if.ufrj.br/~carlos/fismod/seminarios/SternGerlach/SternGerlach_programas/SpinBook02.pdf
+
+https://www.if.ufrj.br/~carlos/fismod/seminarios/SternGerlach/SternGerlach_Zhu_AJP2011.pdf
+
+https://www.dropbox.com/s/ng5khct0tl59pl7/Chapter1.pdf?dl=0
+
+https://www.cs.ucf.edu/~dcm/Teaching/QuantumComputing/Fall2004Class-QC/QCV1.pdf
+
 
 
 # Online tutorials:
