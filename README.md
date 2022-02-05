@@ -40,6 +40,11 @@ https://faculty.csbsju.edu/frioux/workinprogress.html
 
 http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
 
+https://qubit.guide/iqis-book.pdf
+
+https://zhenyucai.com/post/intro_to_qi/AdditionalMaterials/PrelimMaterials.pdf
+
+
 https://www.doc.ic.ac.uk/~ae/papers/qc.pdf
 
 https://young.physics.ucsc.edu/150/phys_150_all.pdf
