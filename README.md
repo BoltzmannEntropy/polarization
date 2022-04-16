@@ -44,6 +44,7 @@ https://qubit.guide/iqis-book.pdf
 
 https://zhenyucai.com/post/intro_to_qi/AdditionalMaterials/PrelimMaterials.pdf
 
+https://arxiv.org/pdf/0910.4222.pdf
 
 https://www.doc.ic.ac.uk/~ae/papers/qc.pdf
 
