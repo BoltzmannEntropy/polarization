@@ -37,6 +37,9 @@ https://faculty.csbsju.edu/frioux/workinprogress.html
 
 
 # Online PDF books:
+
+https://arxiv.org/pdf/quant-ph/0011013.pdf
+
 http://www2.fiit.stuba.sk/~kvasnicka/QuantumComputing/Gruska_QC.pdf
 
 http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
