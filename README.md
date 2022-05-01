@@ -38,7 +38,6 @@ https://faculty.csbsju.edu/frioux/workinprogress.html
 
 # Online PDF books:
 
-http://mmrc.amss.cas.cn/tlb/201702/W020170224608149307696.pdf (Added April 2020)
 
 https://arxiv.org/pdf/quant-ph/0011013.pdf
 
