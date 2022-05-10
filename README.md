@@ -38,6 +38,9 @@ https://faculty.csbsju.edu/frioux/workinprogress.html
 
 # Online PDF books:
 
+The "Quantum quest" is an online QC course for beginners which uses the lovely Quirk simulator.
+https://quantum-quest.nl/quirky/
+https://www.quantum-quest.nl/quantumquest-2021.pdf
 
 https://arxiv.org/pdf/quant-ph/0011013.pdf
 
