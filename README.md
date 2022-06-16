@@ -45,6 +45,8 @@ https://www.quantum-quest.nl/quantumquest-2021.pdf
 
 https://arxiv.org/pdf/quant-ph/0011013.pdf
 
+https://www.ifsc.usp.br/~strontium/Publication/Scripts/QuantumMechanicsScript.pdf
+
 http://www2.fiit.stuba.sk/~kvasnicka/QuantumComputing/Gruska_QC.pdf
 
 http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
