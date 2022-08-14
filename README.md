@@ -6,6 +6,9 @@
   <img src="https://github.com/BoltzmannEntropy/polarization/blob/main/bloch009.png" width="20%"></a>  
 </h1>
 
+## Our Telegram channel:
+https://t.me/BoltzmannQ 
+
 ## Introduction
  
 Building a quantum computer requires **multidisciplinary knowledge** involving experimental and theoretical physics, photonics, computer science, software engineering, and of course quantum mechanics. 
