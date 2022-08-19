@@ -11,9 +11,10 @@ https://t.me/BoltzmannQ
 
 ## Introduction
  
-Building a quantum computer requires **multidisciplinary knowledge** involving experimental and theoretical physics, photonics, computer science, software engineering, and of course quantum mechanics. 
+The development of a quantum computer calls on expertise in a wide range of scientific fields, including quantum mechanics, as well as experimental and theoretical physics, photonics, computer science, and software engineering.
 
-**If you are a computer scientist or a physicist aspiring to become a quantum computing scientist, this list is for you.** 
+This list is for you if you are a physicist, a computer scientist, or a student who is interested in becoming a quantum computing scientist.
+
 
 The topics include:
 
