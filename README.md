@@ -3,7 +3,7 @@
 ## Publicly available quantum computing books (WIP)
 
 <h1 align="center">    
-  <img src="https://github.com/BoltzmannEntropy/polarization/blob/main/HXH.png" width="30%"></a>  
+  <img src="https://github.com/BoltzmannEntropy/polarization/blob/main/HXH.png" width="50%"></a>  
 </h1>
 
 ## Our Telegram channel:
