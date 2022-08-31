@@ -49,6 +49,8 @@ https://www.quantum-quest.nl/quantumquest-2021.pdf
 
 https://arxiv.org/pdf/2201.02051.pdf
 
+https://www.fmt.if.usp.br/~gtlandi/lecture-notes-2.pdf
+
 https://www.uio.no/studier/emner/matnat/fys/FYS4110/h20/undervisningsmateriale/midtermexams2004-19.pdf
 
 https://arxiv.org/pdf/quant-ph/0011013.pdf
