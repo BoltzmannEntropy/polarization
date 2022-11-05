@@ -149,6 +149,9 @@ https://wdscultan.github.io/files/qphys.pdf
 https://scholar.harvard.edu/files/noahmiller/files/statistical_mechanics.pdf
 
 # QISKIT
+https://arxiv.org/abs/1903.04359
+
+https://arxiv.org/abs/2008.10647
 
 https://indico.desy.de/event/26672/contributions/60980/attachments/39510/49043/DESY_Qiskit_Intro_Kuehn.pdf
 
