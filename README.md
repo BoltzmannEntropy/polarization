@@ -47,6 +47,12 @@ The "Quantum quest" is an online QC course for **beginners** which uses the love
 https://quantum-quest.nl/quirky/
 https://www.quantum-quest.nl/quantumquest-2021.pdf
 
+https://qici.weebly.com/uploads/7/4/5/1/74515901/qitextbook.pdf
+
+https://www.chalmers.se/SiteCollectionDocuments/Centrum/WACQT/FullLectureNotesv2.pdf
+
+https://arxiv.org/pdf/2205.09510.pdf
+
 https://arxiv.org/pdf/2201.02051.pdf
 
 https://www.fmt.if.usp.br/~gtlandi/lecture-notes-2.pdf
