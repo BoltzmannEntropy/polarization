@@ -25,6 +25,8 @@ The topics include:
 
 **If you are also considering graduate school**, you should start by reading: *"Preparing for the quantum revolution: What is the role of higher education"*
 
+The article discusses the important role higher education should play in preparing society for the coming quantum revolution. As quantum technologies such as computing, sensing, and communications advance, there will be major impacts across many industries and all levels of society. Universities need to expand quantum curricula, research, and lab capacity to train the quantum-ready workforce of the future. Partnerships with industry and national labs are also key to providing real-world experiences. Additionally, institutions must focus on quantum literacy and outreach to the broader community. The quantum revolution brings immense opportunities as well as risks, and higher education must take the lead in readying both students and the public to meet this watershed moment.
+
 [https://par.nsf.gov/servlets/purl/10233228](https://par.nsf.gov/servlets/purl/10233228)
 
 
